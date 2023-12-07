@@ -97,3 +97,4 @@ function activateRemoveFromCartBtns(){
         })
     })
 }
+// just checking my git
